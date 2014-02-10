@@ -3,7 +3,9 @@ ranlincmd
 
 Generic tool to track changes based on command output for your linux servers
 
-Requirements
+Requirements:
+-------------
+
 * linux box
 * Python 2.6 or higher
 * Create/Commit rights to a CVS or Subversion repository
